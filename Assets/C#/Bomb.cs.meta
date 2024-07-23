@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73c5782b4717d034c940c36432471a32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - game: {instanceID: 0}
+  - normal: {fileID: 21300000, guid: a2a38379947dbc64ba95244dfe2460a0, type: 3}
+  - square: {fileID: 21300008, guid: a2a38379947dbc64ba95244dfe2460a0, type: 3}
+  - big0: {fileID: 21300002, guid: a2a38379947dbc64ba95244dfe2460a0, type: 3}
+  - big1: {fileID: 21300004, guid: a2a38379947dbc64ba95244dfe2460a0, type: 3}
+  - big2: {fileID: 21300006, guid: a2a38379947dbc64ba95244dfe2460a0, type: 3}
+  - TrainOfPowder: {instanceID: 0}
+  - bigExp: {fileID: 1569413438789886, guid: 027576d100c9d05408ad4948661523ea, type: 2}
+  - normalExp: {fileID: 1493281635787754, guid: c0e5f0a574504224dac6de8bb70ddbca,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
